@@ -3,8 +3,7 @@
 Basic HTML code to help me better understand the language.    
 <br>
 
-## Table of contents
----      
+## Table of contents     
 <br>
 
 - Doctype & Basic Layout
