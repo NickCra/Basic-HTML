@@ -12,10 +12,8 @@ Basic HTML code to help me better understand the language.
 - Links, Images & Attributes
 - Lists & Tables
 - Forms & Input
-- Block & Inline  Level Elements
 - Divs & Spans,  Classes & Ids
 - HTML Entities
-- HTML5 Semantic Tags
 
 
 
